@@ -1,8 +1,31 @@
-# React + Vite
+# 🎬 Cinevra
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Cinevra** is a responsive movie and TV show web application built using the [TMDB API](https://www.themoviedb.org/documentation/api). It leverages **React.js**, **Vite**, and **Tailwind CSS** to provide a clean, fast, and mobile-friendly user experience.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔗 Live Demo You can check out the live project here:
+
+🌐 [Live Site Coming Soon – here]
+
+---
+
+## 🚀 Features
+
+- 🔍 Search for movies and TV shows
+- 🎞️ View detailed information including ratings, genres, cast, release dates, etc.
+- 📱 Fully responsive layout using Tailwind CSS
+- ⚡ Fast and optimized performance with Vite
+- 🎨 Clean and modern UI
+
+---
+
+## 🛠️ Tech Stack
+
+| Technology   | Purpose                     |
+| ------------ | --------------------------- |
+| React.js     | Frontend framework          |
+| Vite         | Build tool for speed        |
+| Tailwind CSS | Utility-first styling       |
+| HTML & CSS   | Markup and structure        |
+| TMDB API     | Source of all movie/TV data |

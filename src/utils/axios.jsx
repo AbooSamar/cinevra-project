@@ -6,7 +6,7 @@ const instance = axios.create({
   baseURL: "https://api.themoviedb.org/3/",
   headers: {
     accept: "application/json",
-    Authorization: API_KEY, // Already includes 'Bearer'
+    Authorization: `Bearer ${API_KEY}`,  // Add Bearer here
   },
 });
 
